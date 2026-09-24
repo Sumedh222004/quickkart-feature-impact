@@ -1,0 +1,13 @@
+city,size_index,treated,launch_week,rollout_group
+Bengaluru,1.0,1,14.0,treatment
+Mumbai,0.96,1,14.0,treatment
+Delhi NCR,0.94,1,14.0,treatment
+Hyderabad,0.78,1,14.0,treatment
+Pune,0.71,1,14.0,treatment
+Chennai,0.69,0,,control
+Kolkata,0.6,0,,control
+Ahmedabad,0.52,0,,control
+Jaipur,0.41,0,,control
+Lucknow,0.34,0,,control
+Indore,0.29,0,,control
+Kochi,0.25,0,,control
