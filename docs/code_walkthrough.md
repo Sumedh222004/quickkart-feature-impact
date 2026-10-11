@@ -1,4 +1,4 @@
-# Code Walkthrough — every block in plain English
+# Code Walkthrough 
 
 Read this next to `notebooks/feature_impact_analysis.ipynb`. The goal is that
 you can rebuild the analysis from memory and defend any line of it.
